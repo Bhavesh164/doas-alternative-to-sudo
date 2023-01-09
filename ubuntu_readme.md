@@ -1,3 +1,3 @@
  ## dependenices required to compile the packages
- ## sudo apt-get install bison -y; sudo apt-get install byacc -y; sudo apt-get install byacc -y; sudo apt install libpam0g-dev -y;
+ ## sudo apt-get install bison -y; sudo apt-get install byacc -y; sudo apt install libpam0g-dev -y;
  
